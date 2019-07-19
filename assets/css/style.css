@@ -13,8 +13,8 @@ width: 250px
 
 .testButton1 img
 {
-    background:radial-gradient(circle,rgb(255, 241, 241),transparent);
-    animation:colorSpin 10s linear infinite;
+    background:radial-gradient(circle,rgb(185, 47, 34),transparent);
+    animation:colorSpin 3s linear infinite;
 
     background-color: #ffefef;
 
@@ -53,9 +53,18 @@ width: 170px
 width: 170px;
 height:100px;
 margin-top: 10px;
-    margin-left: -50px;
-
+margin-left: 45px;
 }
+
+
+#collection{
+  margin-top: 10px;
+    margin-left: 65px;
+    margin-bottom: -40px
+  
+}
+
+
 .mx-auto{
     padding: 50px;
 }
